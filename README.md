@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hey there, I'm Maricel 👋
 
-<!--
-**montuyamaricela/montuyamaricela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer interested in creating web applications. I specialize in React, and Vue.
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React
+- Vue
+- Node.js
+- MYSQL
+- Javascript / Typescript
+- PHP
+
+## 🌱 I'm currently learning
+
+I'm always eager to learn new things and keep up with the latest technologies. Currently, I'm diving deeper into serverless architectures and exploring new ways to optimize application performance.
+
+## 🤝 Let's collaborate
+
+If you have an exciting open source project that you would like me to collaborate on, feel free to reach out to me at montuyamaricela@gmail.com. Let's build something amazing together!
+
+### Thanks for stopping by! 👋
