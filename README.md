@@ -6,14 +6,14 @@ I'm a web developer interested in creating web applications. I specialize in Rea
 
 - React
 - Vue
-- Node.js
-- MYSQL
 - Javascript / Typescript
+- MYSQL
 - PHP
+- Java
 
 ## 🌱 I'm currently learning
 
-I'm always eager to learn new things and keep up with the latest technologies. Currently, I'm diving deeper into serverless architectures and exploring new ways to optimize application performance.
+I'm always eager to learn new things and keep up with the latest technologies.
 
 ## 🤝 Let's collaborate
 
