@@ -1,6 +1,6 @@
 # Hey there, I'm Maricel 👋
 
-I'm a web developer interested in creating web applications. I specialize in React, and Vue.
+I'm currently 3rd year student At Bulacan State University. Interested in creating web applications.
 
 ## 🚀 Skills
 
