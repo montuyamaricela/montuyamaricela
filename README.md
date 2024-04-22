@@ -1,15 +1,15 @@
 # Hey there, I'm Maricel 👋
 
-I'm currently 3rd year student At Bulacan State University. Interested in creating web applications.
+I'm currently 3rd year student at Bulacan State University. Interested in creating web applications.
 
 ## 🚀 Skills
 
-- React
-- Vue
+- React/NextJs
+- VueJs
 - Javascript / Typescript
-- MYSQL
-- PHP
-- Java
+- RestAPI
+- Headless CMS
+- Tailwind CSS
 
 ## 🌱 I'm currently learning
 
