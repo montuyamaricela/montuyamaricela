@@ -1,6 +1,7 @@
 # Hey there, I'm Maricel 👋
 
-I'm currently 3rd year student at Bulacan State University. Interested in creating web applications.
+As a freelance developer with over two years of front-end development experience, I've combined academic knowledge with practical skills to craft responsive websites. 
+Specializing in turning creative concepts into captivating digital experiences, I focus on creating engaging user interfaces
 
 ## 🚀 Skills
 
