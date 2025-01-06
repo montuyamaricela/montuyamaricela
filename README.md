@@ -6,7 +6,7 @@ Specializing in turning creative concepts into captivating digital experiences, 
 ## 🚀 Skills
 
 - React/NextJs
-- VueJs
+- Prisma
 - Javascript / Typescript
 - RestAPI
 - Headless CMS
